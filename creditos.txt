@@ -1,0 +1,10 @@
+				    Creditos:
+
+Lider del grupo y el encargado del menu del inicio y menu secundario:
+-Marcos Albraham Sánchez Galindo 
+
+Programador principal del cuerpo del juego:
+-Miguel Angel Bernal Sánchez
+
+Programador 2 en el menu y el cuerpo del juego y creador de las categorias: 
+-Osver Manuel Rodriguez Moreno

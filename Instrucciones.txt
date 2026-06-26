@@ -1,0 +1,23 @@
+			  (Instrucciónes)
+
+
+Se mueve con las flechas arriba y abajo y seleccionas con enter.
+
+Al escoger la opcion de jugar del menu principal,
+escoge la dificultad que desea. 
+
+Al escoger la dificultad esto iniciara el juego,
+donde tendras de entre 6 a 13 intentos dependiendo de la dificultad que elijas.
+
+Principiante = 13.
+
+Medio = 8.
+
+Experto = 6.
+
+cada nivel de difilcultad tiene una diferente categoria,
+sí ganas tienes la opción de avanzar al siguiente nivel o de
+regresar al menú principal, puedes hacer esto hasta llegar
+al nivel más alto, al perder o ganar el nivel más alto te
+regresa al menú principal,y tendras que comenzar desde el
+inicio o salir del juego.

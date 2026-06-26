@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1527810965 source:c:\users\marco\desktop\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527811269 c:\users\marco\desktop\ahorcado\gestion.h
+
+1527811186 c:\users\marco\desktop\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+
+1527811181 source:c:\users\marco\desktop\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
+1527811250 source:c:\users\marco\desktop\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527808743 c:\users\marco\desktop\ahorcado\capturasegura.h
+	<limits>
+
+1527813870 source:i:\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527811270 i:\ahorcado\gestion.h
+
+1527813894 i:\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+	<limits>
+	<windows.h>
+	<time.h>
+
+1527810966 source:i:\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527813894 source:i:\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
+1527818700 source:f:\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
+1527813894 f:\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+	<limits>
+	<windows.h>
+	<time.h>
+
+1527811270 f:\ahorcado\gestion.h
+
+1527815576 source:f:\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527810966 source:f:\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527831378 source:h:\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
+1527831138 h:\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+	<limits>
+	<windows.h>
+	<time.h>
+
+1527811270 h:\ahorcado\gestion.h
+
+1527810966 source:h:\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527828658 source:h:\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527831378 source:c:\users\marco\downloads\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
+1527831138 c:\users\marco\downloads\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+	<limits>
+	<windows.h>
+	<time.h>
+
+1527900533 c:\users\marco\downloads\ahorcado\gestion.h
+
+1527901267 source:c:\users\marco\downloads\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527810966 source:c:\users\marco\downloads\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527901267 source:c:\users\god\downloads\ahorcado (2)\ahorcado\gestion.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527900533 c:\users\god\downloads\ahorcado (2)\ahorcado\gestion.h
+
+1527831138 c:\users\god\downloads\ahorcado (2)\ahorcado\funciones.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<cctype>
+	<fstream>
+	<locale.h>
+	<limits>
+	<windows.h>
+	<time.h>
+
+1527810966 source:c:\users\god\downloads\ahorcado (2)\ahorcado\main.cpp
+	"Gestion.h"
+	"Funciones.h"
+
+1527906177 source:c:\users\god\downloads\ahorcado (2)\ahorcado\funciones.cpp
+	"Funciones.h"
+	"Gestion.h"
+
